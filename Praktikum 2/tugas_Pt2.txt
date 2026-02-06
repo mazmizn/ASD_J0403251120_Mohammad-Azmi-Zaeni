@@ -1,0 +1,15 @@
+1. Buat sama CRUD tentang barang, format sama seperti 
+
+tugas hari ini membuat repository di akun masing-masing dan upload tugasnya, maksimal senin (9/2/2026) jam 23.59
+
+Nama Repo: ASD_NIM_NAMA
+Isinya ada folder:
+        Praktikum1:
+            data_mahasiswa.txt
+            praktikum1.py
+        Praktikum2:
+            data_mahasiswa.txt
+            praktikum2.py
+            data_barang.txt
+            tugas1.py
+        Praktikum3:
