@@ -31,7 +31,7 @@
 
 
 #variabel menyimpan data file
-nama_file = 'data_barang.txt'
+nama_file = 'stok_barang.txt'
 
 def baca_data(nama_file):
     data_dict = {}
