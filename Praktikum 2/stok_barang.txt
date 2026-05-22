@@ -1,0 +1,11 @@
+BRG001,MieInstan,40
+BRG002,TehBotol,20
+BRG003,KopiSachet,50
+BRG004,GulaPasir,15
+BRG005,MinyakGoreng,10
+BRG006,SabunMandi,30
+BRG007,PastaGigi,25
+BRG008,SusuKotak,12
+BRG009,Biskuit,45
+BRG010,AirMineral,100
+BRG011,Sepatu,0
